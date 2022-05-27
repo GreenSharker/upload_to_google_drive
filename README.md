@@ -23,8 +23,20 @@
 <img width="30%" src="https://user-images.githubusercontent.com/48400348/170631205-be46d653-1972-4b88-aefe-9f57ea72124b.png">
 
 ## 구글 드라이브에 업로드하기
+- "업로드" 버튼을 클릭합니다.
+<img width="30%" src="https://user-images.githubusercontent.com/48400348/170631496-97a0b185-e50f-4368-8d8d-24cd37e9d63c.png">
+
+- 업로드가 성공적으로 완료되면, 파일명과 "업로드" 버튼이 원래대로 돌아옵니다.
+<img width="30%" src="https://user-images.githubusercontent.com/48400348/170631703-83ed60bd-826f-44f5-9e6f-06ac843672b6.png">
+
+- 구글 드라이브에 확인하면 업로드되었음을 알 수 있습니다.
 
 ## 구글 로그아웃하기
+- "구글 로그아웃" 버튼을 클릭합니다.
+<img width="30%" src="https://user-images.githubusercontent.com/48400348/170631879-f2dd6d1d-2e59-45bf-b2da-2558c7a77fc6.png">
+
+- 구글 로그아웃되면 다시 원래대로 로그인 화면으로 돌아옵니다.
+<img width="30%" src="https://user-images.githubusercontent.com/48400348/170632028-bdd8177e-dcb0-4646-a103-9e67688a0625.png">
 
 ### 설치된 라이브러리
 - googleapis
