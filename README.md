@@ -1,16 +1,22 @@
-# google_drive_using_flutter
+# Flutter 앱을 이용하여 Google Drive에 업로드하기
 
-A new Flutter project.
 
-## Getting Started
+## 사용방법
 
-This project is a starting point for a Flutter application.
+## 구글 로그인하기
 
-A few resources to get you started if this is your first Flutter project:
+## 파일 첨부하기
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 구글 드라이브에 업로드하기
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 구글 로그아웃하기
+
+### 설치된 라이브러리
+- googleapis
+- googleapis_auth
+- file_picker
+- google_sign_in
+- http
+- firebase_core
+- firebase_auth
+- intl
